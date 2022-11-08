@@ -13,7 +13,7 @@ Forked from [cyg02032015/OptiPlex-7070-SFF](https://github.com/cyg02032015/OptiP
 * **RAM: 32GB DDR4 2666 Daul Channel**
 * **HDD: TOSHIBA RC500 NVMe SSD 500G**
 * **LAN: Intel I219LM7**
-* **Wi-Fi & Bluetooth: BCM943602CS with PCI-E&Onboard-USB (HS04 on the motherboard) **
+* **Wi-Fi & Bluetooth: BCM943602CS with PCI-E&Onboard-USB (HS04 on the motherboard)**
 
 ## Working
 * CPU Turbo Boost & Thermal Throttling
