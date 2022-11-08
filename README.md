@@ -25,7 +25,7 @@ Forked from [cyg02032015/OptiPlex-7070-SFF](https://github.com/cyg02032015/OptiP
 * Sleep & Wakeup
 
 ## Not working
-* 
+Safari DRM(Netflix) encoding.
 
 ## BIOS Settings
 * General → Advanced Boot Options: ***uncheck***
